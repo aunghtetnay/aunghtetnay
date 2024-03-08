@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Htet Nay</h1>
-<h3 align="center">I'm a DevOps Engineerthat loves to automate all the things</h3>
+<h3 align="center">I'm a DevOps Engineer that loves to automate all the things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aunghtetnay&label=Profile%20views&color=0e75b6&style=flat" alt="aunghtetnay" /> </p>
 
